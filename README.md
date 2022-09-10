@@ -1,6 +1,6 @@
 ### Hello I'm Amanda Escalante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AmandaEscalanteAbreu/AmandaEscalanteAbreu/master/giphy.gif" width="400" height="450"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AmandaEscalanteAbreu/AmandaEscalanteAbreu/master/giphy.gif" width="380" height="430"/>
 
 <br />
 <br />
