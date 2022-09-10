@@ -1,4 +1,4 @@
-### Hello I'm Amanda Escalante <img src="https://media.giphy.com/media/L0IscA2xHS5RDH6bXA/giphy.gif" width="26px">
+### Hello I'm Amanda Escalante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/BrayanGuerreroXD/BrayanGuerreroXD/master/Imagenes/code.gif" width="490" height="300"/>
 
