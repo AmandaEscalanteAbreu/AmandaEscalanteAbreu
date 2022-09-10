@@ -1,8 +1,5 @@
 ### Hello I'm Amanda Escalante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AmandaEscalanteAbreu/AmandaEscalanteAbreu/master/giphy.gif" width="330" height="380"/>
-
-<br />
 <br />
 
 ***A WEB DEVELOPER BEGINNER*** 🚀
